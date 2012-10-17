@@ -15,5 +15,5 @@ setup(
     description='SFTPPlus Server extension example.',
     long_description=open('README').read(),
     url='http://www.sftpplus.com',
-    package=['example_extension'],
+    packages=['example_extension'],
 )
